@@ -16,7 +16,7 @@ Linsta numerada:
  
  Lista de tarefas: 
  -[]cria a tarefa
- -[I]marca a tarefa como concluida.
+ -[*]marca a tarefa como concluida.
 
   Colocar imagam e criar link:
   !coloca a imagem.
